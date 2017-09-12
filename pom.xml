@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.baliset</groupId>
-    <artifactId>utility</artifactId>
+    <artifactId>springboot-web-utility</artifactId>
     <version>0.1.1</version>
     <packaging>jar</packaging>
 
@@ -110,9 +110,6 @@
       <artifactId>woodstox-core-asl</artifactId>
       <version>4.4.1</version>
     </dependency>
-
-
-
 
   </dependencies>
 

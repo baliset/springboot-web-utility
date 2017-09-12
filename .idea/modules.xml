@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/utility.iml" filepath="$PROJECT_DIR$/utility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-web-utility.iml" filepath="$PROJECT_DIR$/springboot-web-utility.iml" />
     </modules>
   </component>
 </project>
