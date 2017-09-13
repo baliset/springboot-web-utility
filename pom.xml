@@ -5,7 +5,7 @@
 
     <groupId>com.baliset</groupId>
     <artifactId>springboot-web-utility</artifactId>
-    <version>0.1.1</version>
+    <version>0.1.2</version>
     <packaging>jar</packaging>
     <name>Spring Boot Web Utility</name>
     <description>
@@ -138,7 +138,7 @@
     </snapshotRepository>
     <repository>
       <id>ossrh</id>
-      <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+      <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
     </repository>
   </distributionManagement>
 
